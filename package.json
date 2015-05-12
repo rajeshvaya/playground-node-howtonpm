@@ -1,0 +1,19 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.0",
+  "description": "Tutorials with how-to-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshvaya/playground-node-howtonpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajeshvaya/playground-node-howtonpm/issues"
+  },
+  "homepage": "https://github.com/rajeshvaya/playground-node-howtonpm#readme"
+}
